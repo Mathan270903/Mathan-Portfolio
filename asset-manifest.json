@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mathan-Portfolio/static/css/main.c7c8a822.css",
-    "main.js": "/Mathan-Portfolio/static/js/main.5fd7e12a.js",
+    "main.js": "/Mathan-Portfolio/static/js/main.e06b5549.js",
     "static/media/4.avif": "/Mathan-Portfolio/static/media/4.c0723023a935efed8de6.avif",
     "static/media/p1.webp": "/Mathan-Portfolio/static/media/p1.bf3fcfecb14090c5bfbe.webp",
     "static/media/p3.webp": "/Mathan-Portfolio/static/media/p3.a9dfaca73fb1c3e9d97d.webp",
@@ -10,10 +10,10 @@
     "static/media/2.avif": "/Mathan-Portfolio/static/media/2.ca97b5d4aa9b56695d90.avif",
     "index.html": "/Mathan-Portfolio/index.html",
     "main.c7c8a822.css.map": "/Mathan-Portfolio/static/css/main.c7c8a822.css.map",
-    "main.5fd7e12a.js.map": "/Mathan-Portfolio/static/js/main.5fd7e12a.js.map"
+    "main.e06b5549.js.map": "/Mathan-Portfolio/static/js/main.e06b5549.js.map"
   },
   "entrypoints": [
     "static/css/main.c7c8a822.css",
-    "static/js/main.5fd7e12a.js"
+    "static/js/main.e06b5549.js"
   ]
 }
